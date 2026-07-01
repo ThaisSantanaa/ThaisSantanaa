@@ -30,7 +30,7 @@
 
 📊 Meu jardim no GitHub
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThaisSantanaa&show_icons=true&theme=merko&hide_border=true"/>
+<img height="180em" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJiM3NyYnF4dnJvNjFyN3JqeDVndzk5MTYycHY2emhmbWlscjUyNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/46yPfgO81ZalJSKu74/giphy.gif"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisSantanaa&layout=compact&theme=merko&hide_border=true"/>
 
 ⸻
