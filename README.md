@@ -1,6 +1,8 @@
 <div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ5eDVwYTdzaDUwNWhqN25yZ2x1a3NwYm1peWtocGFrZTliYnFxYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/x5HlLDaLMZNVS/giphy.gif" width="500">
 
+
+
 🌿✨ Thais Santana ✨🌿
 
 👩🏾‍💻 Desenvolvedora Java Full Stack em formação pela Generation Brasil
