@@ -1,18 +1,26 @@
 <div align="center">
-<img src="https://tenor.com/pt-BR/view/my-neighbor-totoro-totoro-mei-satsuki-ghibli-gif-12716380096529148962" />
 
-🌿✨ Thais Santana ✨🌿
+🌿☁️ Olá, eu sou a Thais Santana ☁️🌿
 
-💚 “Os sonhos ganham vida quando encontramos coragem para persegui-los.”
+✨ Desenvolvedora Java Full Stack em formação
 
-👩🏾‍💻 Desenvolvedora Java Full Stack em formação pela Generation Brasil
-🎓 Bacharel em Administração de Empresas
-📚 Estudando inglês e construindo minha carreira na tecnologia
-🌎 Sonho em viajar o mundo, ajudar minha família e impactar vidas através da inovação
+<img src="https://media1.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="350">
+
+“Cada pequena jornada nos aproxima dos nossos sonhos.” 🌻
 
 ⸻
 
-🐸 Tecnologias
+🍃 Sobre mim
+
+🌱 Estudante de Java Full Stack na Generation Brasil
+🎓 Bacharel em Administração de Empresas
+📚 Aprendendo inglês e tecnologia todos os dias
+🌍 Apaixonada por viagens, livros, arte e novas descobertas
+💚 Sonho em construir uma carreira que transforme vidas e ajude minha família
+
+⸻
+
+🧹 Tecnologias & Ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,html,css,vscode,eclipse" />
@@ -20,21 +28,36 @@
 
 ⸻
 
-🌱 Atualmente
+🌸 Minhas Estatísticas
 
-🌷 Desenvolvendo projetos em Java Full Stack
-📖 Aprimorando o inglês diariamente
-🚀 Em busca da minha primeira oportunidade como desenvolvedora
-
-⸻
-
-📊 Meu jardim no GitHub
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThaisSantanaa&show_icons=true&theme=merko&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisSantanaa&layout=compact&theme=merko&hide_border=true"/>
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ThaisSantanaa&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisSantanaa&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ⸻
 
-🌸 “O sucesso floresce quando dedicação e coragem caminham juntas.” 🌸
+🐍 Jardim de Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ThaisSantanaa/ThaisSantanaa/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+⸻
+
+🌙 Conecte-se comigo
+
+<p align="center">
+  <a href="SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-4A7C59?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-6B8E23?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+⸻
+
+🌾 “A magia está nas pequenas coisas e na coragem de seguir em frente.” 🌾
 
 </div>
