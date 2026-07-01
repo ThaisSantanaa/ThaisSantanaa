@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="300">
+https://tenor.com/pt-BR/view/my-neighbor-totoro-totoro-mei-satsuki-ghibli-gif-12716380096529148962
 
 🌿✨ Thais Santana ✨🌿
 
@@ -32,17 +32,6 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThaisSantanaa&show_icons=true&theme=merko&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisSantanaa&layout=compact&theme=merko&hide_border=true"/>
-
-⸻
-
-✨ Conecte-se comigo
-
-<a href="SEU_LINK_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-2E8B57?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:SEU_EMAIL">
-  <img src="https://img.shields.io/badge/E--mail-3CB371?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
 
 ⸻
 
