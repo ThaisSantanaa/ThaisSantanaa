@@ -3,8 +3,6 @@
 
 🌿✨ Thais Santana ✨🌿
 
-💚 “Os sonhos ganham vida quando encontramos coragem para persegui-los.”
-
 👩🏾‍💻 Desenvolvedora Java Full Stack em formação pela Generation Brasil
 🎓 Bacharel em Administração de Empresas
 📚 Estudando inglês e construindo minha carreira na tecnologia
