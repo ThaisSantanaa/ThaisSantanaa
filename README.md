@@ -12,6 +12,7 @@
 📚 Estudando inglês e construindo minha carreira na tecnologia.<br>
 🌎 Sonho em viajar o mundo, ajudar minha família e impactar vidas através da inovação.
 </p>
+
 ⸻⸻⸻⸻⸻⸻
 
 
