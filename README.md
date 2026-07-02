@@ -36,7 +36,7 @@
 
 
 
-## 🐍 Minhas contribuições
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ThaisSantanaa/ThaisSantanaa/output/github-contribution-grid-snake-dark.svg">
