@@ -22,7 +22,7 @@
 
 
 <p align="center">
-  <img src=" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWI5cWoyeDNobG1oYnljZ3FwMHVsYzcweDlyaHgwYjQ3YmRwOWpkNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UMon0fuimoAN9ueUNP/giphy.gif" />
 </p>
 
 
@@ -31,9 +31,6 @@
 
 
 
-<p align="center">
-<img height="180em" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJiM3NyYnF4dnJvNjFyN3JqeDVndzk5MTYycHY2emhmbWlscjUyNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/46yPfgO81ZalJSKu74/giphy.gif"/>
-<img height="180em"
 
 
 
