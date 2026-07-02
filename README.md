@@ -47,7 +47,7 @@
   <img src="https://raw.githubusercontent.com/ThaisSantanaa/ThaisSantanaa/output/github-contribution-grid-snake-dark.svg">
 </p>
 
-🌸 “O sucesso floresce quando dedicação e coragem caminham juntas.” 🌸
+🌸 “𝙊 𝙨𝙪𝙘𝙚𝙨𝙨𝙤 𝙛𝙡𝙤𝙧𝙚𝙨𝙘𝙚 𝙦𝙪𝙖𝙣𝙙𝙤 𝙙𝙚𝙙𝙞𝙘𝙖𝙘̧𝙖̃𝙤 𝙚 𝙘𝙤𝙧𝙖𝙜𝙚𝙢 𝙘𝙖𝙢𝙞𝙣𝙝𝙖𝙢 𝙟𝙪𝙣𝙩𝙖𝙨.” 🌸
 
 </div>
 
