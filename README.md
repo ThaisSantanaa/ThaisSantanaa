@@ -3,7 +3,7 @@
 
 
 
-🌿✨ Thais Santana ✨🌿
+## ✨𝐎𝐥𝐚́, 𝐞𝐮 𝐬𝐨𝐮 𝐚 𝐓𝐡𝐚𝐢𝐬 !
 
 👩🏾‍💻 Desenvolvedora Java Full Stack em formação pela Generation Brasil
 🎓 Bacharel em Administração de Empresas
