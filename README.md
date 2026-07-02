@@ -13,7 +13,7 @@
 🌎 Sonho em viajar o mundo, ajudar minha família e impactar vidas através da inovação.
 </p>
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 
 ### 🐸 𝑻𝒆𝒄𝒏𝒐𝒍𝒐𝒈𝒊𝒂𝑺/𝑭𝒆𝒓𝒓𝒂𝒎𝒆𝒏𝒕𝒂𝒔
