@@ -21,19 +21,13 @@
 
 ⸻
 
-🌱 Atualmente                                                                              
-🌷 Desenvolvendo projetos em Java Full Stack
-📖 Aprimorando o inglês diariamente
-🚀 Em busca da minha primeira oportunidade como desenvolvedora
-
-⸻
 
 <p align="center">
 <img height="180em" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJiM3NyYnF4dnJvNjFyN3JqeDVndzk5MTYycHY2emhmbWlscjUyNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/46yPfgO81ZalJSKu74/giphy.gif"/>
 <img height="180em"
 
 
-
+🌸 “O sucesso floresce quando dedicação e coragem caminham juntas.” 🌸
 
 
 
@@ -42,7 +36,7 @@
   <img src="https://raw.githubusercontent.com/ThaisSantanaa/ThaisSantanaa/output/github-contribution-grid-snake-dark.svg">
 </p>
 
-🌸 “O sucesso floresce quando dedicação e coragem caminham juntas.” 🌸
+
 
 </div>f
 
