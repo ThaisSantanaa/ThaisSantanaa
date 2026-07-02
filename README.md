@@ -33,7 +33,6 @@
 <img height="180em"
 
 
-⸻
 
 ## 🐍 Minhas contribuições
 
