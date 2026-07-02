@@ -5,7 +5,7 @@
 
 ## ✨𝐎𝐥𝐚́, 𝐞𝐮 𝐬𝐨𝐮 𝐚 𝐓𝐡𝐚𝐢𝐬 !
 
-<p align="right">
+<p align="left">
 👩🏾‍💻 Desenvolvedora Java Full Stack em formação pela Generation Brasil<br>
 🎓 Bacharel em Administração de Empresas<br>
 📚 Estudando inglês e construindo minha carreira na tecnologia<br>
