@@ -10,7 +10,7 @@
 🎓 Bacharel em Administração de Empresas<br>
 📚 Estudando inglês e construindo minha carreira na tecnologia<br>
 🌎 Sonho em viajar o mundo, ajudar minha família e impactar vidas através da inovação<br>
-<p>
+</p>
 ⸻
 
 🐸 Tecnologias
