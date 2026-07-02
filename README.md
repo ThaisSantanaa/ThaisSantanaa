@@ -13,7 +13,7 @@
 </p>
 ⸻
 
-## 🐸 Tecnologias
+## 🐸 𝑻𝒆𝒄𝒏𝒐𝒍𝒐𝒈𝒊𝒂𝒔
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,html,css,vscode,eclipse" />
