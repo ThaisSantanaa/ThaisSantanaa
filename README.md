@@ -39,9 +39,14 @@
 
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ThaisSantanaa/ThaisSantanaa/output/github-contribution-grid-snake-dark.svg">
+ <p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Sushmitadasari/Sushmitadasari/main/dist/github-jet.svg"
+    alt="GitHub Jet Heatmap"
+    width="100%"
+  />
 </p>
+</a>
 
 🌸 “𝙊 𝙨𝙪𝙘𝙚𝙨𝙨𝙤 𝙛𝙡𝙤𝙧𝙚𝙨𝙘𝙚 𝙦𝙪𝙖𝙣𝙙𝙤 𝙙𝙚𝙙𝙞𝙘𝙖𝙘̧𝙖̃𝙤 𝙚 𝙘𝙤𝙧𝙖𝙜𝙚𝙢 𝙘𝙖𝙢𝙞𝙣𝙝𝙖𝙢 𝙟𝙪𝙣𝙩𝙖𝙨.” 🌸
 
