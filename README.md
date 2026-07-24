@@ -1,3 +1,5 @@
+## ✨𝐎𝐥𝐚́, 𝐞𝐮 𝐬𝐨𝐮 𝐚 𝐓𝐡𝐚𝐢𝐬 !  
+
 <div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ5eDVwYTdzaDUwNWhqN25yZ2x1a3NwYm1peWtocGFrZTliYnFxYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/x5HlLDaLMZNVS/giphy.gif" width="700">
 
@@ -7,7 +9,7 @@
 <img      src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGNhbWcwMnpuc2d6a3JrOG1lb3d1YW54d3Y1b2RmaHNvbWhzNm5iNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gFzpxMBslm5Ao5fSzo/giphy.gif" width="50">
 
                                    
-## ✨𝐎𝐥𝐚́, 𝐞𝐮 𝐬𝐨𝐮 𝐚 𝐓𝐡𝐚𝐢𝐬 !  
+
 
 
 👩🏾‍💻 Desenvolvedora Java Full Stack em formação pela Generation Brasil.<br>
