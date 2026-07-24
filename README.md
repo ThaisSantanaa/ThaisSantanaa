@@ -43,7 +43,7 @@
   <img
     src="https://raw.githubusercontent.com/Sushmitadasari/Sushmitadasari/main/dist/github-jet.svg"
     alt="GitHub Jet Heatmap"
-    width="100%"
+    width="85%"
   />
 </p>
 </a>
