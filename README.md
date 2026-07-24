@@ -1,5 +1,3 @@
-## ✨𝐎𝐥𝐚́, 𝐞𝐮 𝐬𝐨𝐮 𝐚 𝐓𝐡𝐚𝐢𝐬 !  
-
 <div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ5eDVwYTdzaDUwNWhqN25yZ2x1a3NwYm1peWtocGFrZTliYnFxYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/x5HlLDaLMZNVS/giphy.gif" width="700">
 
@@ -10,7 +8,7 @@
 
                                    
 
-
+## ✨𝐎𝐥𝐚́, 𝐞𝐮 𝐬𝐨𝐮 𝐚 𝐓𝐡𝐚𝐢𝐬 !  
 
 👩🏾‍💻 Desenvolvedora Java Full Stack em formação pela Generation Brasil.<br>
 🎓 Bacharel em Administração de Empresas.<br>
