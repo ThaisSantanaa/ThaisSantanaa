@@ -1,10 +1,9 @@
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ5eDVwYTdzaDUwNWhqN25yZ2x1a3NwYm1peWtocGFrZTliYnFxYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/x5HlLDaLMZNVS/giphy.gif" width="700">
+<img src="https://ik.imagekit.io/oiocs8j87/WhatsApp%20Image%202026-08-19%20at%2016.47.52.jpeg" width="500">
 
 
   
-<div align="left">   
-<img      src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGNhbWcwMnpuc2d6a3JrOG1lb3d1YW54d3Y1b2RmaHNvbWhzNm5iNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/gFzpxMBslm5Ao5fSzo/giphy.gif" width="50">
+
 
                                    
 
