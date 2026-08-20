@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://ik.imagekit.io/oiocs8j87/WhatsApp%20Image%202026-08-19%20at%2016.47.52.jpeg" width="300">
+<img src="https://ik.imagekit.io/oiocs8j87/WhatsApp%20Image%202026-08-19%20at%2016.47.52.jpeg" width="200">
 
 
   
