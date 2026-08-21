@@ -40,15 +40,7 @@
 
 <br>
 
-## GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ThaisSantanaa&show_icons=true&hide_border=true&theme=radical&title_color=F0509A&icon_color=C77CF2&text_color=EEEDFE&bg_color=160A20" alt="Estatísticas do GitHub" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThaisSantanaa&hide_border=true&theme=radical&background=160A20&ring=F0509A&fire=F0509A&currStreakLabel=EEEDFE" alt="Sequência de contribuições" />
-
-</div>
 
 <br>
 
