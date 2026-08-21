@@ -34,7 +34,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-FF7FC0?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-9B7FE0?style=for-the-badge&logo=css3&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-D354A8?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-7C5AA8?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 
