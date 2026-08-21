@@ -34,7 +34,7 @@
 &nbsp;
 
 
-![Contribuições](./assets/coracao-contribuicoes.svg)
+ ./assets/coracao-contribuicoes.svg
 
 
 
