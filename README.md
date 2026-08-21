@@ -45,7 +45,6 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ThaisSantanaa&show_icons=true&title_color=ff79c6&icon_color=bd93f9&text_color=ffffff&bg_color=1a1a2e)
 
 ### 💌 Vamos nos conectar
 
