@@ -1,6 +1,6 @@
 <div align="center">
 
-# Oi, eu sou a Thaís 👋💜
+# 𝐎𝐢, 𝐞𝐮 𝐬𝐨𝐮 𝐚 𝐓𝐡𝐚í𝐬 👋💜
 
 
 
