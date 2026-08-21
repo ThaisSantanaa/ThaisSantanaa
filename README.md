@@ -2,14 +2,14 @@
 
 # Oi, eu sou a Thaís 👋💜
 
-### Dev em construção • Café + Código = Solução ☕✨
+
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="./coracao-contribuicoes.svg" alt="Coração de contribuições" />
+  <img src="https://ik.imagekit.io/oiocs8j87/WhatsApp%20Image%202026-08-19%20at%2016.47.52.jpeg?updatedAt=1787237244813" />
 </div>
 
 <br>
