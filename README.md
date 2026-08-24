@@ -9,8 +9,7 @@
 <br>
 
 <div align="center">
-<img src="<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/c8593b58-13c4-4481-a858-7843feea6045" />
-="200">
+<img src="https://ik.imagekit.io/oiocs8j87/imagem_2026-08-23_224537545.png ="200">
 
 
 <br>
