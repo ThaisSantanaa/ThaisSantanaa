@@ -9,7 +9,8 @@
 <br>
 
 <div align="center">
-<img src="https://ik.imagekit.io/oiocs8j87/WhatsApp%20Image%202026-08-19%20at%2016.47.52.jpeg" width="200">
+<img src="<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/c8593b58-13c4-4481-a858-7843feea6045" />
+="200">
 
 
 <br>
