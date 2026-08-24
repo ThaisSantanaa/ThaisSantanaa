@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-<img src="https://ik.imagekit.io/oiocs8j87/imagem_2026-08-23_224537545.png ="200">
+<img src="https://ik.imagekit.io/oiocs8j87/imagem_2026-08-23_224537545.png" alt="Descrição da imagem" width="600">
 
 
 <br>
